@@ -1,2 +1,2 @@
 # mini-ai-from-scratch
-A step-by-step implementation of linear regression and gradient descent from scratch in Python.
+A beginner-friendly Python project that shows how a simple linear regression model learns using loss, gradients, and weight updates.
