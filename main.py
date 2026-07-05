@@ -1,6 +1,6 @@
 # Training data
 xs = [10, 20, 30, 40]
-ys = [15, 25, 65, 85]
+ys = [20, 40, 60, 80]
 
 # Initial weights
 w = 0.0
